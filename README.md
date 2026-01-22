@@ -1,1 +1,1 @@
-# gemini-chat-app
+# gemini_chat_app
